@@ -8,5 +8,5 @@
 - Live matches collection, contains an unwritten invariant that all elements in it have a null end date.
 - Summarizing all matches does not take comparator.
 - Update method does not verify whether the match is still ongoing while the result is being updated.
-- Validations are in setters and constructors
+- Validations are in setters and constructors.
 - The sorting checker is based on the list comparison properties, but it is not transparent.
